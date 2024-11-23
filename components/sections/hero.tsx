@@ -14,12 +14,12 @@ export function HeroSection() {
         className="container px-4 mx-auto text-center"
       >
         <div className="mb-8 inline-block px-4 py-1.5 bg-blue-100 text-blue-700 rounded-full text-sm font-medium">
-          🎉 SPECIAL LAUNCH OFFER: FIRST 3 MONTHS FREE FOR RESTAURANTS AND HOTELS!
+          🎉 SPECIAL LAUNCH OFFER: FIRST MONTH FREE!
         </div>
 
         <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6 text-gray-900">
-          ELEVATE YOUR GUEST EXPERIENCE ✨{' '}
-          <span className="text-blue-700">TURN REVIEWS INTO REWARDS! 🏆</span>
+          GET THE RATINGS YOU DESERVE ✨{' '}
+          <span className="text-blue-700">MOTIVATE YOUR TEAM TO GET REVIEWS! 🏆</span>
         </h1>
 
         <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
